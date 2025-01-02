@@ -39,6 +39,9 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 - It seems that most of reviewes of video games of each genre more liked to review their genre.
 - Every reviewer have different ratings in every video games.
 
+## Most impressive graph:
+![png](./assets/graph1.png)
+
 ## Links to EDA projects and assets in Kaggle
 
 **EDA Project in Jupyter notebook in Kaggle:**
