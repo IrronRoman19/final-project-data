@@ -9,14 +9,14 @@ Also, there have 10 genres: "Action", "Adventure", "Fighting", "Party", "Puzzle"
 In addition, there have 5 game platforms: "Xbox", "PlayStation", "PC", "Nintendo Switch" and "Mobile".
 There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults".
 
-By framework of EDA project, I was researched the next questions:
+*By framework of EDA project, I was researched the next questions:*
 
 - How do user ratings correlate with factors like price or completion time?
 - Are there any significant differences in user ratings for games released on different platforms (PC vs. Console vs. Mobile) per year?
 - Can we identify any patterns in user reviews based on the age group the game is targeted towards?
 - How does the sentiment of user reviews (positive, negative, neutral) differ across different game genres?
 
-By basic data analysis I have discovered next things:
+*By basic data analysis I have discovered next things:*
 
 - Average price of the video games is 40 USD, minimal price of the video games is 20 USD, maximal price of the video games is 60 USD.
 - Average rating of the video games is 30, minimal rating of the video games is 10, maximal rating of the video games is 50.
@@ -27,7 +27,7 @@ By basic data analysis I have discovered next things:
 - Most reviewed platform in recent years is PlayStation. Least reviewed platform in recent years is Xbox.
 - Most reviewed age group in recent years is Kids. Least reviewed age group in recent years is Adults.
 
-By advanced data analysis I have discovered next things:
+*By advanced data analysis I have discovered next things:*
 
 - Expensive video games taking to walkthrough the game is more hours than cheaper video games.
 - Video games with higher ratings cost expensive than games with lower rating
