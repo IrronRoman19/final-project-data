@@ -41,7 +41,11 @@ By advanced data analysis I have discovered next things:
 
 
 **EDA Project in Kaggle:**
+
+
 https://www.kaggle.com/code/superroman19/eda-project-tovtech-video-game-reviews
 
 **Video Games in Dataset:**
+
+
 https://www.kaggle.com/code/superroman19/eda-project-tovtech-video-game-reviews?select=video_game_reviews.csv
