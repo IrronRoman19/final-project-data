@@ -40,6 +40,7 @@ By advanced data analysis I have discovered next things:
 - Every reviewer have different ratings in every video games.
 
 
+
 **EDA Project in Kaggle:**
 
 
