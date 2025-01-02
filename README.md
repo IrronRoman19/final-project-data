@@ -39,8 +39,15 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 - It seems that most of reviewes of video games of each genre more liked to review their genre.
 - Every reviewer have different ratings in every video games.
 
-## Most impressive graph:
+## Most impressive graph in EDA project:
 ![png](./assets/graph1.png)
+
+## How the learning in Datacamp helped me with the project?
+Before beginning this project, I was learned Python and Pandas courses in DataCamp.
+They gave explation, interactvie practices and introduced projects.
+Courses of DataCamp helped me more understand how work statistics, data.
+Last course that I learned in DataCamp before I began project is "Exploratory Data Analysis in Python".
+This course helped understand more how works EDA and how to make EDA project.
 
 ## Links to EDA projects and assets in Kaggle
 
