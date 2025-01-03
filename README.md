@@ -43,10 +43,10 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 
 ## Most impressive graphs in EDA project:
 
-![png](./assets/graph2.png)!
-![png](./assets/graph1.png)!
-![png](./assets/graph3.png)!
-![png](./assets/graph4.png)!
+![png](./assets/graph2.png)
+![png](./assets/graph1.png)
+![png](./assets/graph3.png)
+![png](./assets/graph4.png)
 
 ## How the learning in Datacamp helped me with the project?
 
