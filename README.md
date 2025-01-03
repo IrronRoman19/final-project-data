@@ -2,6 +2,8 @@
 
 #### by Roman Fesunenko
 
+![png](./assets/headline_pic.png)
+
 This EDA project was made within the framework of Data Analyst course by TovTech.
 As part of the project, I chose topic of Video Games reviews, because it is one of my favorite topics.
 During the project, I was found amazing things in a Data. For example, there have 47774 reviews and there only have 40 video games from last decades.
@@ -40,9 +42,11 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 - Every reviewer have different ratings in every video games.
 
 ## Most impressive graph in EDA project:
+
 ![png](./assets/graph1.png)
 
 ## How the learning in Datacamp helped me with the project?
+
 Before beginning this project, I was learned Python and Pandas courses in DataCamp.
 They gave explation, interactvie practices and introduced projects.
 Courses of DataCamp helped me more understand how work statistics, data.
@@ -53,10 +57,12 @@ This course helped understand more how works EDA and how to make EDA project.
 
 **EDA Project in Jupyter notebook in Kaggle:**
 
-
 https://www.kaggle.com/code/superroman19/eda-project-tovtech-video-game-reviews
 
 **Video Games in Dataset in Kaggle:**
 
-
 https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings
+
+
+
+© All rights reserved
