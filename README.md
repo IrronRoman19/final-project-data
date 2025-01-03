@@ -65,5 +65,8 @@ https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings
 
 
 
+---
 
-© All rights reserved
+
+
+*© All rights reserved*
