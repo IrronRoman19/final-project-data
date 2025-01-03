@@ -41,7 +41,7 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 - It seems that most of reviewes of video games of each genre more liked to review their genre.
 - Every reviewer have different ratings in every video games.
 
-## Most impressive graph in EDA project:
+## Most impressive graphs in EDA project:
 
 ![png](./assets/graph2.png)
 ![png](./assets/graph1.png)
@@ -66,10 +66,6 @@ https://www.kaggle.com/code/superroman19/eda-project-tovtech-video-game-reviews
 
 https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings
 
-
-
 ---
-
-
 
 *© All rights reserved*
