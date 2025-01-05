@@ -11,14 +11,14 @@ Also, there have 10 genres: "Action", "Adventure", "Fighting", "Party", "Puzzle"
 In addition, there have 5 game platforms: "Xbox", "PlayStation", "PC", "Nintendo Switch" and "Mobile".
 There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults".
 
-*By framework of EDA project, I was researched the next questions:*
+***By framework of EDA project, I was researched the next questions:***
 
 - How do user ratings correlate with factors like price or completion time?
 - Are there any significant differences in user ratings for games released on different platforms (PC vs. Console vs. Mobile) per year?
 - Can we identify any patterns in user reviews based on the age group the game is targeted towards?
 - How does the sentiment of user reviews (positive, negative, neutral) differ across different game genres?
 
-*By basic data analysis I have discovered next things:*
+***By basic data analysis I have discovered next things:***
 
 - Average price of the video games is 40 USD, minimal price of the video games is 20 USD, maximal price of the video games is 60 USD.
 - Average rating of the video games is 30, minimal rating of the video games is 10, maximal rating of the video games is 50.
@@ -29,7 +29,7 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 - Most reviewed platform in recent years is PlayStation. Least reviewed platform in recent years is Xbox.
 - Most reviewed age group in recent years is Kids. Least reviewed age group in recent years is Adults.
 
-*By advanced data analysis I have discovered next things:*
+***By advanced data analysis I have discovered next things:***
 
 - Expensive video games taking to walkthrough the game is more hours than cheaper video games.
 - Video games with higher ratings cost expensive than games with lower rating
@@ -40,6 +40,16 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 - It seems that 1/4 of reviewers of video games of each genre disappointed by game experiences in game.
 - It seems that most of reviews of video games of each genre more liked to review their genre.
 - Every reviewer have different ratings in every video games.
+
+***Insight and recommendations:***
+
+* Each reviewer have different experience during the playing the game.
+* Price and count of walkthrough hours may cause to quality of the game and also causes to rating of review.
+* Not every reviewer reviewed game that belongs to his age targeted group.
+* Some reviewers liked more specific game genre or game platform.
+* Trends of platform of video games are change during last decades.
+* Games for mobile became more popular in last years, and it seems that these kind of games became profitable.
+* Genres popularity changes every year, that depends on which one is more profitable.
 
 ## Most impressive graphs in EDA project:
 
