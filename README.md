@@ -37,8 +37,8 @@ There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults
 - Platform ratings are changing per year that some platform increasing rating and other platforms are decreasing rating.
 - It seems that mobile games got higher rating, because games for mobile device that using more in recent years become more popular.
 - It seems that 1/4 of reviewers of games of each age group targeted are from different age group and also feel that games that age group targeted are not necessarily appropriate for an age group.
-- It seems that 1/4 of reviewers of video games of each genre dissapointed by game experiences in game.
-- It seems that most of reviewes of video games of each genre more liked to review their genre.
+- It seems that 1/4 of reviewers of video games of each genre disappointed by game experiences in game.
+- It seems that most of reviews of video games of each genre more liked to review their genre.
 - Every reviewer have different ratings in every video games.
 
 ## Most impressive graphs in EDA project:
