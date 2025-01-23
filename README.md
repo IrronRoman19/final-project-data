@@ -6,57 +6,23 @@
 
 This EDA project was made within the framework of Data Analyst course by TovTech.
 As part of the project, I chose topic of Video Games reviews, because it is one of my favorite topics.
-During the project, I was found amazing things in a Data. For example, there have 47774 reviews and there only have 40 video games from last decades.
-Also, there have 10 genres: "Action", "Adventure", "Fighting", "Party", "Puzzle", "RPG", "Shooter", "Simulation", "Sports" and "Strategy".
-In addition, there have 5 game platforms: "Xbox", "PlayStation", "PC", "Nintendo Switch" and "Mobile".
-There have 4 age groups categories as well: "All ages", "Kids", "Teens", "Adults".
+During the project, I was found amazing things in following dataset.
 
 ***By framework of EDA project, I was researched the next questions:***
 
-- How do user ratings correlate with factors like price or completion time?
-- Are there any significant differences in user ratings for games released on different platforms (PC vs. Console vs. Mobile) per year?
-- Can we identify any patterns in user reviews based on the age group the game is targeted towards?
-- How does the sentiment of user reviews (positive, negative, neutral) differ across different game genres?
+* How do user ratings correlate with factors like popularity or completion time?
+* Are there any significant differences in user ratings for games released on different genres per year?
+* How does the sentiment of user reviews during reviews of the games?
 
-***By basic data analysis I have discovered next things:***
+This EDA project provided valuable insights into the trends and user preferences within the gaming industry based on the "Popular Video Games 1980 - 2023 🎮"  dataset. We observed that adventure games hold the largest share, indicating a strong preference for exploratory and story-driven experiences among gamers. RPGs are also very popular, suggesting that players enjoy immersive, character-driven narratives and complex game mechanics. The analysis of correlations between various metrics like ratings, reviews, wishlists, and backlogs revealed interesting connections. It is noteworthy that popularity metrics are highly interconnected, and a game gaining traction in one area is likely to perform well in the others. The sentiment analysis indicated that the majority of game reviews are positive, suggesting that the games are generally well-received by the audience.
 
-- Average price of the video games is 40 USD, minimal price of the video games is 20 USD, maximal price of the video games is 60 USD.
-- Average rating of the video games is 30, minimal rating of the video games is 10, maximal rating of the video games is 50.
-- TOP-5 popular games are 'Pokemon Skarlet & Violet', 'Minecraft', 'FIFA 24', 'Street Fighter V' and 'Tomb Raider (2013)'
-- TOP-5 popular genres are RPG, Shooter, Strategy, Puzzle and Simulation.
-- TOP-5 popular platforms are PlayStation, PC, Nintendo Switch, Mobile and Xbox.
-- Most reviewed genre in recent years is Strategy. Least reviewed genres in recent years are Sports and RPG.
-- Most reviewed platform in recent years is PlayStation. Least reviewed platform in recent years is Xbox.
-- Most reviewed age group in recent years is Kids. Least reviewed age group in recent years is Adults.
-
-***By advanced data analysis I have discovered next things:***
-
-- Expensive video games taking to walkthrough the game is more hours than cheaper video games.
-- Video games with higher ratings cost expensive than games with lower rating
-- Games with higher ratings taking to walkthrough the game is more hours than video games with lower ratings.
-- Platform ratings are changing per year that some platform increasing rating and other platforms are decreasing rating.
-- It seems that mobile games got higher rating, because games for mobile device that using more in recent years become more popular.
-- It seems that 1/4 of reviewers of games of each age group targeted are from different age group and also feel that games that age group targeted are not necessarily appropriate for an age group.
-- It seems that 1/4 of reviewers of video games of each genre disappointed by game experiences in game.
-- It seems that most of reviews of video games of each genre more liked to review their genre.
-- Every reviewer have different ratings in every video games.
-
-***Insight and recommendations:***
-
-* Each reviewer have different experience during the playing the game.
-* Price and count of walkthrough hours may cause to quality of the game and also causes to rating of review.
-* Not every reviewer reviewed game that belongs to his age targeted group.
-* Some reviewers liked more specific game genre or game platform.
-* Trends of platform of video games are change during last decades.
-* Games for mobile became more popular in last years, and it seems that these kind of games became profitable.
-* Genres popularity changes every year, that depends on which one is more profitable.
+Overall, this EDA project has shed light on user preferences and trends in the gaming industry. These insights can be valuable for game developers, publishers, and marketers in creating, promoting, and distributing games that cater to the evolving needs and interests of gamers.
 
 ## Most impressive graphs in EDA project:
 
-![png](./assets/graph2.png)
-![png](./assets/graph1.png)
-![png](./assets/graph3.png)
-![png](./assets/graph4.png)
+![png](./assets/graphX1.png)
+![png](./assets/graphX2.png)
+![png](./assets/graphX3.png)
 
 ## How the learning in Datacamp helped me with the project?
 
@@ -74,7 +40,7 @@ https://www.kaggle.com/code/superroman19/eda-project-tovtech-video-game-reviews
 
 **Video Games in Dataset in Kaggle:**
 
-https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings
+https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
 
 ---
 
