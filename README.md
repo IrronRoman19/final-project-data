@@ -14,9 +14,26 @@ During the project, I was found amazing things in following dataset.
 * Are there any significant differences in user ratings for games released on different genres per year?
 * How does the sentiment of user reviews during reviews of the games?
 
-This EDA project provided valuable insights into the trends and user preferences within the gaming industry based on the "Popular Video Games 1980 - 2023 🎮"  dataset. We observed that adventure games hold the largest share, indicating a strong preference for exploratory and story-driven experiences among gamers. RPGs are also very popular, suggesting that players enjoy immersive, character-driven narratives and complex game mechanics. The analysis of correlations between various metrics like ratings, reviews, wishlists, and backlogs revealed interesting connections. It is noteworthy that popularity metrics are highly interconnected, and a game gaining traction in one area is likely to perform well in the others. The sentiment analysis indicated that the majority of game reviews are positive, suggesting that the games are generally well-received by the audience.
+Through analyzing the "Popular Video Games 1980-2023" dataset, several key trends and insights about video game popularity, user reviews, and ratings have emerged. This analysis not only answered the core questions of how ratings correlate with popularity and completion time but also uncovered deeper patterns about user preferences, game genres, and the role of player engagement in shaping a game’s success.
 
-Overall, this EDA project has shed light on user preferences and trends in the gaming industry. These insights can be valuable for game developers, publishers, and marketers in creating, promoting, and distributing games that cater to the evolving needs and interests of gamers.
+**Key Insights:**
+
+* Minecraft and Grand Theft Auto V are the most popular games, showcasing the lasting appeal of sandbox and open-world genres.
+* RPG and Strategy games consistently receive higher ratings, reflecting the preference for depth and complexity in gameplay.
+* Indie games, like Hades and Undertale, are gaining traction, indicating the growing success of small studios offering unique gaming experiences.
+* Multiplayer games, such as Among Us and Super Smash Bros. Ultimate, highlight a clear demand for social and competitive experiences in gaming.
+* User reviews are overwhelmingly positive, with text sentiment analysis confirming the general satisfaction among players. While neutral reviews are rare, negative sentiment is an important factor in understanding potential areas for improvement.
+* The number of games released has been steadily increasing, especially after 2020, highlighting the expanding gaming market. However, the quality of games varies significantly, especially in certain years or genres.
+
+**Recommendations:**
+
+* Game developers should focus on creating immersive gameplay experiences, offering variety in genres to cater to a wider audience and ensuring high replayability to maintain player engagement.
+* The importance of community building cannot be overstated, with multiplayer features and active player feedback being key to sustaining long-term success.
+* Analyzing trends in wishlists and backlogs offers valuable insights for future marketing strategies and player engagement efforts.
+* For developers aiming for sustained success, investing in franchises and sequels can help build long-term loyalty, while being innovative within popular genres will set games apart in an oversaturated market.
+* Regular updates, expansions, and in-game events can turn backlogs into active plays, ensuring that games continue to be enjoyed long after their initial release.
+
+By continuously listening to player feedback and analyzing patterns in user reviews and sentiment, developers can stay ahead of industry trends and ensure their games resonate with their audience.
 
 ## Most impressive graphs in EDA project:
 
