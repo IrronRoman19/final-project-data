@@ -49,7 +49,7 @@ Courses of DataCamp helped me more understand how work statistics, data.
 Last course that I learned in DataCamp before I began project is "Exploratory Data Analysis in Python".
 This course helped understand more how works EDA and how to make EDA project.
 
-## Links to EDA projects and assets in Kaggle
+## Links to EDA projects and assets in Kaggle and Datalab
 
 **Video Games in Dataset in Kaggle:**
 
