@@ -51,13 +51,17 @@ This course helped understand more how works EDA and how to make EDA project.
 
 ## Links to EDA projects and assets in Kaggle
 
+**Video Games in Dataset in Kaggle:**
+
+https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
+
 **EDA Project in Jupyter notebook in Kaggle:**
 
 https://www.kaggle.com/code/superroman19/eda-project-tovtech-video-game-reviews
 
-**Video Games in Dataset in Kaggle:**
+**EDA Project with SQL in Jupyter notebook in Datalab:**
 
-https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
+https://www.datacamp.com/datalab/w/bb2f5df0-ccbd-4970-9cbd-e6ebd04af526
 
 ---
 
