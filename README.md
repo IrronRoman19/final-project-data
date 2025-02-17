@@ -49,7 +49,7 @@ Courses of DataCamp helped me more understand how work statistics, data.
 Last course that I learned in DataCamp before I began project is "Exploratory Data Analysis in Python".
 This course helped understand more how works EDA and how to make EDA project.
 
-## Links to EDA projects and assets in Kaggle and Datalab
+## Links to EDA projects and assets in Kaggle and DataLab
 
 **Video Games in Dataset in Kaggle:**
 
@@ -59,7 +59,7 @@ https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
 
 https://www.kaggle.com/code/superroman19/eda-project-tovtech-video-game-reviews
 
-**EDA Project with SQL in Jupyter notebook in Datalab:**
+**EDA Project with SQL in Jupyter notebook in DataLab:**
 
 https://www.datacamp.com/datalab/w/bb2f5df0-ccbd-4970-9cbd-e6ebd04af526
 
