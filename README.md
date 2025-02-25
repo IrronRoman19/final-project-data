@@ -14,26 +14,28 @@ During the project, I was found amazing things in following dataset.
 * Are there any significant differences in user ratings for games released on different genres per year?
 * How does the sentiment of user reviews during reviews of the games?
 
-Through analyzing the "Popular Video Games 1980-2023" dataset, several key trends and insights about video game popularity, user reviews, and ratings have emerged. This analysis not only answered the core questions of how ratings correlate with popularity and completion time but also uncovered deeper patterns about user preferences, game genres, and the role of player engagement in shaping a game’s success.
+**Analysis Summary:**
+
+The "Popular Video Games 1980-2023" dataset reveals key trends in game popularity, user reviews, and ratings, providing insights into user preferences, game genres, and the impact of player engagement on a game's success.
 
 **Key Insights:**
 
-* Minecraft and Grand Theft Auto V are the most popular games, showcasing the lasting appeal of sandbox and open-world genres.
-* RPG and Strategy games consistently receive higher ratings, reflecting the preference for depth and complexity in gameplay.
-* Indie games, like Hades and Undertale, are gaining traction, indicating the growing success of small studios offering unique gaming experiences.
-* Multiplayer games, such as Among Us and Super Smash Bros. Ultimate, highlight a clear demand for social and competitive experiences in gaming.
-* User reviews are overwhelmingly positive, with text sentiment analysis confirming the general satisfaction among players. While neutral reviews are rare, negative sentiment is an important factor in understanding potential areas for improvement.
-* The number of games released has been steadily increasing, especially after 2020, highlighting the expanding gaming market. However, the quality of games varies significantly, especially in certain years or genres.
+* **Top Games:** Minecraft and Grand Theft Auto V are the most popular, highlighting the appeal of sandbox and open-world genres.
+* **High-Rated Genres:** RPG and Strategy games receive higher ratings, indicating a preference for depth and complexity.
+* **Indie Success:** Indie games like Hades and Undertale are gaining popularity, showing the success of unique gaming experiences from small studios.
+* **Multiplayer Demand:** Games like Among Us and Super Smash Bros. Ultimate emphasize the demand for social and competitive gaming.
+* **Positive Reviews:** User reviews are mostly positive, with sentiment analysis confirming general satisfaction. Negative reviews, though rare, highlight areas for improvement.
+* **Market Growth:** The number of game releases has increased, especially post-2020, though quality varies by year and genre.
 
 **Recommendations:**
 
-* Game developers should focus on creating immersive gameplay experiences, offering variety in genres to cater to a wider audience and ensuring high replayability to maintain player engagement.
-* The importance of community building cannot be overstated, with multiplayer features and active player feedback being key to sustaining long-term success.
-* Analyzing trends in wishlists and backlogs offers valuable insights for future marketing strategies and player engagement efforts.
-* For developers aiming for sustained success, investing in franchises and sequels can help build long-term loyalty, while being innovative within popular genres will set games apart in an oversaturated market.
-* Regular updates, expansions, and in-game events can turn backlogs into active plays, ensuring that games continue to be enjoyed long after their initial release.
+* **Immersive Gameplay:** Developers should focus on creating engaging and varied gameplay to cater to a broad audience and ensure high replayability.
+* **Community Building:** Emphasize multiplayer features and active player feedback to sustain long-term success.
+* **Trend Analysis:** Use wishlist and backlog trends for marketing strategies and player engagement.
+* **Franchises and Innovation:** Invest in franchises and sequels for long-term loyalty, while innovating within popular genres to stand out.
+* **Regular Updates:** Provide updates, expansions, and in-game events to keep games active and enjoyable over time.
 
-By continuously listening to player feedback and analyzing patterns in user reviews and sentiment, developers can stay ahead of industry trends and ensure their games resonate with their audience.
+By leveraging player feedback and analyzing user review patterns, developers can stay ahead of industry trends and create games that resonate with their audience.
 
 ## Most impressive graphs in EDA project:
 
