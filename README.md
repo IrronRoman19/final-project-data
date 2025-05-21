@@ -46,7 +46,7 @@ By leveraging player feedback and analyzing user review patterns, developers can
 ## How the learning in Datacamp helped me with the project?
 
 Before beginning this project, I was learned Python and Pandas courses in DataCamp.
-They gave explation, interactvie practices and introduced projects.
+They gave explation, interactive practices and introduced projects.
 Courses of DataCamp helped me more understand how work statistics, data.
 Last course that I learned in DataCamp before I began project is "Exploratory Data Analysis in Python".
 This course helped understand more how works EDA and how to make EDA project.
